@@ -75,9 +75,6 @@ No build step. No dependencies beyond React. Drop it into any React environment 
 
 ## Usage
 
-### As a Claude Artifact
-
-Paste `arch_diagram.jsx` directly into a Claude artifact runner. It uses no external dependencies beyond React and renders immediately.
 
 ### In a React App
 
